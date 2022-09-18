@@ -1,0 +1,203 @@
+body .header{
+    background-color:white;
+    float: right; 
+    
+}
+body .header .inner-header{
+    background-color:white;
+
+}
+body .header .inner-header .dot-main{
+    display:inline-block;
+    /* background-color: blue; */
+    vertical-align: middle;
+    border-radius: 52%;
+    padding-right: 13px;
+    width: 23px;
+    height: 37px;
+}
+body .header .inner-header .sign-main{
+    display: inline-block;
+    padding-right: 17px;
+    padding-top: 13px;
+    margin-left: 10px;
+}
+    body .header .inner-header  .dot{
+        width: 19px;
+        display: inline-block;
+        margin-left: 8px;
+        margin-top: 9px;
+        margin-bottom: 10px;
+    }
+    body .header .inner-header .gmail{
+        display: inline-block;
+        padding-left: 16px;
+        padding-right: 19px;
+    }
+    body .header .inner-header .images{
+        display: inline-block;
+        padding-right: 5px;
+    }
+    body .header .inner-header .sign-main .sign-in{
+        display: inline-block;
+        border: #ccc;
+        background-color: #1a73e8;
+        border-radius: 4px;
+        color: white;
+        width: 94px;
+        height: 36px;           
+    }
+    body .header .inner-header .sign-in:hover{
+        background-color: rgb(127, 127, 241);
+    }
+    body .header .inner-header .dot-main:hover{
+        background-color: rgb(236, 233, 233);
+    }
+    body .header .inner-header .gmail:hover{
+        text-decoration: underline;
+    }
+    body .header .inner-header .images:hover{
+        text-decoration: underline;
+    }
+    section .gimg .se .sebox{
+        width: 100px;
+    } 
+section .gimg .mainpic{
+    width: 20%;
+    padding-top: 63px;
+    padding-left: 541px;
+}
+section .gimg .se .sebox{
+    height: 40px;
+    border-radius: 30px;
+    width: 497px;
+    border: 1px solid #ccc;
+    outline: none;
+    font-size: 16px;
+    
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+section .gimg .se{
+    padding-top: 24px;
+   padding-left: 384px; 
+}
+section .gimg .se .seimg .si{
+    width: 26px;
+    position: absolute;
+    margin-top: -34px;
+    padding-left: 1%;
+    
+    
+}
+section .gimg .se .seimg .mi{
+    width: 26px;
+    position: absolute;
+    float:right;
+    margin-left: 559px;
+    margin-top: -35px;
+    
+}
+section .gimg .se .seimg .gs{
+    width: 130px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 150px;
+    outline: none;
+    border-color: #ccc;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5%;
+
+}
+section .gimg .se .seimg .fl{
+    width: 130px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 20px;
+    outline: none;
+    border-color: #ccc;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5%;
+
+}
+section .gimg .se .seimg .fl:hover{
+    border: 1px solid rgb(160, 156, 156);
+}
+section .gimg .se .seimg .gs:hover{
+    border: 1px solid rgb(160, 156, 156);
+}
+
+section .gimg .se .gff{
+    margin-left: 175px;
+    margin-top: 35px;
+
+}
+section .gimg .se .gff .urdu{
+    margin-left: 10px;
+    color: rgb(89, 89, 228);
+}
+
+section .gimg .se .gff .urdu:hover{
+    text-decoration: underline;
+}
+ footer .pakistan{
+     color: rgb(156, 152, 152);
+     width: 1363px;
+     height: 35px;
+     padding-top: 25px;
+     background-color: rgb(245, 245, 245);
+     margin-top: 180px;
+ }
+ footer .pakistan .pak{
+     margin-left: 35px;
+          
+    }
+footer .innerfo{
+    width: 1363px;
+    height: 35px;
+    padding-top: 25px;
+     border: 1px solid rgb(199, 196, 196);
+     background-color: rgb(245, 245, 245);
+}
+
+footer .innerfo .abc{
+    color: rgb(156, 152, 152);
+    margin-left: 20px;
+}
+footer .innerfo .abc:hover{
+    text-decoration: underline;
+
+}
+footer .innerfo .asd{
+    color: rgb(156, 152, 152);
+    margin-left: 700px;
+}
+footer .innerfo .asd1{
+    color: rgb(156, 152, 152);
+    margin-left: 30px;
+}
+footer .innerfo .asd2{
+    color: rgb(156, 152, 152);
+    margin-left: 30px;
+}
+footer .innerfo .asd:hover{
+    text-decoration: underline;
+
+}
+footer .innerfo .asd1:hover{
+    text-decoration: underline;
+    
+}
+footer .innerfo .asd2:hover{
+    text-decoration: underline;
+    
+}
+/* .gmail{
+margin-left: 20px;
+padding-top: 20px;
+} */
